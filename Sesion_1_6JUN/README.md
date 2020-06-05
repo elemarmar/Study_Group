@@ -10,7 +10,7 @@
 - Automatización de tareas (Node, npm y gulp)
 - Sass
 
-
+> Tengo una lista de preguntas teóricas sobre estos conceptos. Yo os preguntaré para que me expliquéis ciertas cosas y entre todas contestaremos a las preguntas. 
 
 ## Maquetación
 
