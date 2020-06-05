@@ -18,6 +18,8 @@
 
 1. Ejercicio de maquetación con **flexbox**
 
+> Partiremos de una página con contenido ya pero en la que hace falta posicionar varios elementos. Contaremos también con la versión completa para ver cuál es nuestro objetivo.
+
 ---
 
 ## 
