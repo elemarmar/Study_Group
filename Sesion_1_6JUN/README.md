@@ -14,13 +14,9 @@
 
 ## Maquetación
 
-1. Maquetación simple
-
 1. Ejercicio de maquetación con **position**
-2. Ejercicio de maquetación con **flexbox**
-3. Ejercicio de maquetación **Media Queries**
 
-
+1. Ejercicio de maquetación con **flexbox**
 
 ---
 
