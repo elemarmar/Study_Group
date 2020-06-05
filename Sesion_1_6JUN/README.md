@@ -26,11 +26,11 @@
 
 Partimos de esta página:
 
-<img src="/Users/elemarmar/Library/Application Support/typora-user-images/image-20200605093638331.png" alt="image-20200605093638331" style="zoom:50%;" />![image-20200605093703355](/Users/elemarmar/Library/Application Support/typora-user-images/image-20200605093703355.png)
+<img src="../img/image-20200605093638331.png" alt="image-20200605093638331" style="zoom:50%;" />![image-20200605093703355](/Users/elemarmar/Library/Application Support/typora-user-images/image-20200605093703355.png)
 
 Y al utilizar position queremos llegar a esto:
 
-<img src="/Users/elemarmar/Library/Application Support/typora-user-images/image-20200605093949922.png" alt="image-20200605093949922" style="zoom:50%;" />
+<img src="../img/image-20200605093949922.png" alt="image-20200605093949922" style="zoom:50%;" />
 
 ---
 
@@ -38,11 +38,11 @@ Y al utilizar position queremos llegar a esto:
 
 Partimos de esta página: 
 
-<img src="/Users/elemarmar/Library/Application Support/typora-user-images/image-20200605093846609.png" alt="image-20200605093846609" style="zoom:50%;" />
+<img src="../img/image-20200605093846609.png" alt="image-20200605093846609" style="zoom:50%;" />
 
 Y al aplicar flex queremos llegar a esto:
 
-<img src="/Users/elemarmar/Library/Application Support/typora-user-images/image-20200605093556438.png" alt="image-20200605093556438" style="zoom:50%;" />
+<img src="../img/image-20200605093556438.png" alt="image-20200605093556438" style="zoom:50%;" />
 
 ---
 
